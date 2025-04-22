@@ -1,0 +1,15 @@
+langchain==0.3.21
+langchain-community==0.3.20
+langchain-core==0.3.46
+langchain-openai==0.3.9
+langchain-qdrant==0.2.0
+langchain-text-splitters==0.3.7
+langsmith==0.3.18
+openai==1.67.0
+pandas==2.2.3
+python-dotenv==1.0.1
+qdrant-client==1.13.3
+tiktoken==0.9.0
+tqdm==4.67.1
+fastapi==0.115.0
+uvicorn==0.30.0
